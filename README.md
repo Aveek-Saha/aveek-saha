@@ -1,14 +1,13 @@
-## Hi there 👋
+### Hi there 👋
 I'm a Computer Science graduate who's passionate about Machine Learning, Natural Language Processing, Artificial Intelligence, and Full Stack development. I also work on IoT projects and I'm handy with microcontrollers.
 
 I also love swimming and art, and you can check out some of my artwork on [Behance](https://www.behance.net/aveeks/)
 
-## 📫 How to reach me:
+### 📫 How to reach me:
 - LinkedIn - [/in/aveek-saha](https://www.linkedin.com/in/aveek-saha/)
 - Website - [aveek.io](https://home.aveek.io/)
 - Blog - [aveek.io/Blog](https://home.aveek.io/blog/)
 - Behance - [@aveeks](https://www.behance.net/aveeks/)
-- Twitter - [@SahaAveek](https://twitter.com/SahaAveek)
 
 <!--
 **Aveek-Saha/aveek-saha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
