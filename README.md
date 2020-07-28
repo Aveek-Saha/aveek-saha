@@ -1,4 +1,6 @@
-![](https://github-readme-stats.vercel.app/api?username=aveek-saha&show_icons=true&theme=radical)
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=aveek-saha&show_icons=true&theme=dracula">
+</p>
 
 <!--
 **Aveek-Saha/aveek-saha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
